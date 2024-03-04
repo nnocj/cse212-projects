@@ -2,7 +2,6 @@ public static class ArraySelector
 {
     public static void Run()
     {    
-        Console.ReadLine();
         var l1 = new[] { 1, 2, 3, 4, 5 };
         var l2 = new[] { 2, 4, 6, 8, 10};
         var select = new[] { 1, 1, 1, 2, 2, 1, 2, 2, 2, 1};
